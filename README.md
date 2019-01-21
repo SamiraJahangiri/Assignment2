@@ -9,4 +9,4 @@ myMean <- function(assignment2){
   return(sum(assignment2)/length(assignment2))
 }
 
-myMean()
+myMean(assignment2)
